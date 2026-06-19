@@ -48,8 +48,9 @@ Holding a Bachelor of Pharmacy alongside certifications as a Microsoft Certified
 🔬 Peer-Reviewed Contributions:
 Contributor, European Respiratory Journal (ERJ): Applied rigorous data engineering, logical cleaning, and advanced quantitative techniques to process a high-volume longitudinal patient dataset for a clinical cohort study published in ERJ Supplement 63.
 
+---
 
-##📬 Connect with Me
+## 📬 Connect with Me
 Location: Oshawa, ON, Canada
 Email: abhilash.bonagoni@gmail.com
 LinkedIn: [www.linkedin.com/in/abhilashbonagoni]
